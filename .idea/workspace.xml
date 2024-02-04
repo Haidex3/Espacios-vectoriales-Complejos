@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0e7ca5f-827c-45ea-b4ce-3957d4146b43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Espacios vectoriales.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +69,8 @@
       <workItem from="1706807341551" duration="3796000" />
       <workItem from="1707060688994" duration="1207000" />
       <workItem from="1707075123880" duration="1007000" />
+      <workItem from="1707085171743" duration="224000" />
+      <workItem from="1707085674887" duration="110000" />
     </task>
     <servers />
   </component>
